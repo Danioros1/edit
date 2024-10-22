@@ -121,6 +121,7 @@
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs
 * ⭐ **[Codeium](https://codeium.com/)** - Coding AI / [Live Chat](https://codeium.com/live/general) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * ⭐ **[Pieces](https://pieces.app/) / [Docs](https://docs.pieces.app)** - Multi-LLM Coding AI / GPT-4 for Free
+* [Fragments](https://fragments.e2b.dev/) - Coding AI with preview / [GitHub](https://github.com/e2b-dev/fragments)
 * [WDTCD?](https://whatdoesthiscodedo.com/) - Simple Code Explanations
 * [Sourcery](https://sourcery.ai/) - Auto-Pull Request Reviews 
 * [Devv](https://devv.ai/) - Coding Search Engine
